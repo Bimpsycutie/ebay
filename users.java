@@ -4,5 +4,4 @@ olu
 simon 
 kennedy
 ola
-doyin 
-bisi
+
